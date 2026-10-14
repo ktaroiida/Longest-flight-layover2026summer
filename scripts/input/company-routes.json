@@ -1,0 +1,3719 @@
+[
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "CTS",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "CTS",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "HKD",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "KIJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "KMQ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "KUH",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "MMB",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "NRT",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "SHB",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "TOY",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "UKB",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "WKJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FKS",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FUJ",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KMQ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "TSJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HAC",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HIJ",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "HSG",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "ISG",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "IWJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "IWK",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KCZ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KIX",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMI",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMQ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MMY",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MYJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "NTQ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OIT",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OKJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "ONJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "SHB",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "SYO",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "TAK",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "TOY",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "TTJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "UBJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "UKB",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "WKJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "YGJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "MMY",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KCZ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KIJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KMI",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "MYJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "NRT",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "OIT",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "IWK",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "KMJ",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "MMY",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "MMY",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "MYJ",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "ANA系（ANA/ANA Wings・ANA便名ネットワーク）",
+    "fromCode": "OKA",
+    "toCode": "TAK",
+    "category": "国内定期",
+    "periodNote": "2026/7/1-10/24",
+    "sourceUrl": "https://www.ana.co.jp/ja/jp/guide/plan/airinfo/dom-timetable/",
+    "note": "既存ANA国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AKJ",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AKJ",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "CTS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AOJ",
+    "toCode": "UKB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "KKX",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "RNJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ASJ",
+    "toCode": "TKN",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AXJ",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AXJ",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "CTS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "AXT",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "FSZ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "HIJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "HNA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "IZO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "KIJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "KIX",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "MMB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "MMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "MSJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "TKS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "CTS",
+    "toCode": "GAJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FSZ",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FSZ",
+    "toCode": "IZO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FSZ",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FSZ",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FSZ",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUJ",
+    "toCode": "FUK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUJ",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "HNA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "IZO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KCZ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KIJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KMI",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "KUM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "MMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "MYJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "TKS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "FUK",
+    "toCode": "TSJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HIJ",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "OIR",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HKD",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HNA",
+    "toCode": "HND",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HNA",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HNA",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HNA",
+    "toCode": "UKB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "ISG",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "ITM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "IZO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KCZ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KIX",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KKJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMI",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KMQ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "KUH",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MMB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MMY",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MSJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "MYJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OBO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OIT",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "OKJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "SHM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "TAK",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "TKS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "UBJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "UEO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "HND",
+    "toCode": "GAJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "IKI",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "KIX",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "MMY",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "OGN",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ISG",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "IZO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KIJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KMI",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "KUM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "MMB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "MMJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "MSJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "MYJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "NGS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "OIT",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "OKI",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "SDJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "TJH",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "TKN",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "TNE",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "ITM",
+    "toCode": "GAJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "IZO",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KCZ",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KCZ",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KIJ",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KIX",
+    "toCode": "MMY",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KIX",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KKX",
+    "toCode": "KOJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KMJ",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KMJ",
+    "toCode": "NKM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KMQ",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KOJ",
+    "toCode": "KUM",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KOJ",
+    "toCode": "OKE",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KOJ",
+    "toCode": "RNJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KOJ",
+    "toCode": "TKN",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KOJ",
+    "toCode": "TNE",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KTD",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KUH",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "KUH",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMB",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMD",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMJ",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMJ",
+    "toCode": "UKB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMY",
+    "toCode": "NGO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMY",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MMY",
+    "toCode": "TRA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "MSJ",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "NRT",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "OBO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NGO",
+    "toCode": "OKA",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NGS",
+    "toCode": "TSJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NKM",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "NKM",
+    "toCode": "GAJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OIR",
+    "toCode": "OKD",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKA",
+    "toCode": "OKE",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKA",
+    "toCode": "OKJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKA",
+    "toCode": "RNJ",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKA",
+    "toCode": "UEO",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKD",
+    "toCode": "RIS",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKD",
+    "toCode": "SHB",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "JALグループ（JAL/J-AIR/JAC/JTA/RAC/HAC・JAL便名ネットワーク）",
+    "fromCode": "OKE",
+    "toCode": "TKN",
+    "category": "国内定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "note": "既存JAL国内路線シートから複製"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "CTS",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "AKJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "HKD",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "MMB",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "OBO",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HND",
+    "toCode": "KUH",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "CTS",
+    "toCode": "SDJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "CTS",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "CTS",
+    "toCode": "UKB",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "CTS",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "AIRDO",
+    "fromCode": "HKD",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.airdo.jp/plan/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "KMJ",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "NGS",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "KOJ",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "OIT",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "HND",
+    "toCode": "OKA",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "KOJ",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "UKB",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "ISG",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "OKA",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "NGO",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ソラシドエア",
+    "fromCode": "NGO",
+    "toCode": "KOJ",
+    "category": "定期",
+    "periodNote": "2026/8/20時点",
+    "sourceUrl": "https://www.solaseedair.jp/timetable/flightroute/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "HND",
+    "toCode": "KKJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "HND",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "HND",
+    "toCode": "KIX",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "NGO",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "HND",
+    "toCode": "UBJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スターフライヤー",
+    "fromCode": "FUK",
+    "toCode": "SDJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.starflyer.jp/timetable/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "CTS",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "UKB",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "KOJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "OKA",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "HND",
+    "toCode": "SHI",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "CTS",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "SDJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "IBR",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "NGS",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "KOJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "OKA",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "UKB",
+    "toCode": "SHI",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "CTS",
+    "toCode": "IBR",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "CTS",
+    "toCode": "NGO",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "CTS",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "IBR",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "IBR",
+    "toCode": "OKA",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "NGO",
+    "toCode": "KOJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "NGO",
+    "toCode": "OKA",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "FUK",
+    "toCode": "OKA",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "FUK",
+    "toCode": "SHI",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "KOJ",
+    "toCode": "ASJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "スカイマーク",
+    "fromCode": "OKA",
+    "toCode": "SHI",
+    "category": "定期・季節便含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.skymark.co.jp/ja/news/detail/1195778_1625.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "NRT",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "MMB",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "KUH",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "SDJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "FUK",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "NGS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "KMI",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "KOJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "ASJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "OKA",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "KIX",
+    "toCode": "ISG",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NRT",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NRT",
+    "toCode": "FUK",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NRT",
+    "toCode": "ASJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NRT",
+    "toCode": "OKA",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NRT",
+    "toCode": "ISG",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "CTS",
+    "toCode": "OKA",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "SDJ",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NGO",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NGO",
+    "toCode": "SDJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "NGO",
+    "toCode": "OKA",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "FUK",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "FUK",
+    "toCode": "OKA",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "Peach Aviation",
+    "fromCode": "FUK",
+    "toCode": "ISG",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.flypeach.com/lm/st/routemap",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "CTS",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "AKJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "KIX",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "TAK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "MYJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "KCZ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "NGS",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "OIT",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "KMJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "KOJ",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NRT",
+    "toCode": "OKA",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "KIX",
+    "toCode": "CTS",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "KIX",
+    "toCode": "OKA",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NGO",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "NGO",
+    "toCode": "OKA",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "ジェットスター・ジャパン",
+    "fromCode": "FUK",
+    "toCode": "CTS",
+    "category": "定期",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://www.jetstar.com/jp/ja/about-us/LCC-yokoso",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "SPRING JAPAN",
+    "fromCode": "NRT",
+    "toCode": "CTS",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://jp.ch.com/time-table",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "SPRING JAPAN",
+    "fromCode": "NRT",
+    "toCode": "HIJ",
+    "category": "定期・期間運航含む",
+    "periodNote": "2026夏ダイヤ",
+    "sourceUrl": "https://jp.ch.com/time-table",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "CTS",
+    "toCode": "GAJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "CTS",
+    "toCode": "KIJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "CTS",
+    "toCode": "MMJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "CTS",
+    "toCode": "FSZ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "CTS",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "OKD",
+    "toCode": "MMJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "OKD",
+    "toCode": "FSZ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "OKD",
+    "toCode": "NKM",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "AOJ",
+    "toCode": "NKM",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "AOJ",
+    "toCode": "UKB",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "HNA",
+    "toCode": "NKM",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "HNA",
+    "toCode": "UKB",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "HNA",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "SDJ",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "GAJ",
+    "toCode": "NKM",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "KIJ",
+    "toCode": "NKM",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "KIJ",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "MMJ",
+    "toCode": "UKB",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "MMJ",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "FSZ",
+    "toCode": "IZO",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "FSZ",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "FSZ",
+    "toCode": "KMJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "FSZ",
+    "toCode": "KOJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NKM",
+    "toCode": "IZO",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NKM",
+    "toCode": "KCZ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NKM",
+    "toCode": "FUK",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NKM",
+    "toCode": "KMJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NGO",
+    "toCode": "KCZ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "フジドリームエアラインズ（FDA）",
+    "fromCode": "NGO",
+    "toCode": "KMJ",
+    "category": "定期・季節便含む",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.fujidream.co.jp/timetable/?anchor=list",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "CTS",
+    "toCode": "SDJ",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "SDJ",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "SDJ",
+    "toCode": "ITM",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "SDJ",
+    "toCode": "HIJ",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "SDJ",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "FKS",
+    "toCode": "ITM",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "KIJ",
+    "toCode": "ITM",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "KIJ",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "NGO",
+    "toCode": "MYJ",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "NGO",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "NGO",
+    "toCode": "OIT",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "ITM",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "IBEXエアラインズ",
+    "fromCode": "ITM",
+    "toCode": "OIT",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.ibexair.co.jp/routemap/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "NGS",
+    "toCode": "IKI",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "NGS",
+    "toCode": "FUJ",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "NGS",
+    "toCode": "TSJ",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "FUK",
+    "toCode": "FUJ",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "FUK",
+    "toCode": "TSJ",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "FUK",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "FUK",
+    "toCode": "KMQ",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "FUK",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "NGO",
+    "toCode": "KMI",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "オリエンタルエアブリッジ（ORC）",
+    "fromCode": "NGO",
+    "toCode": "AXT",
+    "category": "定期",
+    "periodNote": "2026/3/29-10/24",
+    "sourceUrl": "https://www.orc-air.co.jp/fare/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "天草エアライン（AMX）",
+    "fromCode": "AXJ",
+    "toCode": "FUK",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.amx.co.jp/time/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "天草エアライン（AMX）",
+    "fromCode": "AXJ",
+    "toCode": "KMJ",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.amx.co.jp/time/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "天草エアライン（AMX）",
+    "fromCode": "KMJ",
+    "toCode": "ITM",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://www.amx.co.jp/time/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "トキエア",
+    "fromCode": "KIJ",
+    "toCode": "OKD",
+    "category": "定期",
+    "periodNote": "2026/9/1-10/24",
+    "sourceUrl": "https://tokiair.com/schedules/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "トキエア",
+    "fromCode": "KIJ",
+    "toCode": "NGO",
+    "category": "定期",
+    "periodNote": "2026/9/1-10/24",
+    "sourceUrl": "https://tokiair.com/schedules/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "トキエア",
+    "fromCode": "KIJ",
+    "toCode": "UKB",
+    "category": "定期",
+    "periodNote": "2026/9/1-10/24",
+    "sourceUrl": "https://tokiair.com/schedules/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "新中央航空",
+    "fromCode": "CHOFU",
+    "toCode": "OIM",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://central-air.co.jp/schedule-fee.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "新中央航空",
+    "fromCode": "CHOFU",
+    "toCode": "NIIJIMA",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://central-air.co.jp/schedule-fee.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "新中央航空",
+    "fromCode": "CHOFU",
+    "toCode": "KOZUSHIMA",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://central-air.co.jp/schedule-fee.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "新中央航空",
+    "fromCode": "CHOFU",
+    "toCode": "MYE",
+    "category": "定期",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://central-air.co.jp/schedule-fee.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "東邦航空（東京愛らんどシャトル）",
+    "fromCode": "HAC",
+    "toCode": "AOGASHIMA",
+    "category": "定期ヘリ",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://tohoair-tal.jp/ext/timetable.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "東邦航空（東京愛らんどシャトル）",
+    "fromCode": "HAC",
+    "toCode": "MIKURAJIMA",
+    "category": "定期ヘリ",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://tohoair-tal.jp/ext/timetable.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "東邦航空（東京愛らんどシャトル）",
+    "fromCode": "MIKURAJIMA",
+    "toCode": "MYE",
+    "category": "定期ヘリ",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://tohoair-tal.jp/ext/timetable.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "東邦航空（東京愛らんどシャトル）",
+    "fromCode": "MYE",
+    "toCode": "OIM",
+    "category": "定期ヘリ",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://tohoair-tal.jp/ext/timetable.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "東邦航空（東京愛らんどシャトル）",
+    "fromCode": "OIM",
+    "toCode": "TOSHIMA",
+    "category": "定期ヘリ",
+    "periodNote": "2026現行",
+    "sourceUrl": "https://tohoair-tal.jp/ext/timetable.html",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "第一航空",
+    "fromCode": "OKA",
+    "toCode": "AGJ",
+    "category": "定期・運航日設定",
+    "periodNote": "2026年10月まで",
+    "sourceUrl": "https://dai1air.com/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "第一航空",
+    "fromCode": "ISG",
+    "toCode": "TRA",
+    "category": "定期・運航日設定",
+    "periodNote": "2026年10月まで",
+    "sourceUrl": "https://dai1air.com/",
+    "note": "会社別公式路線情報から追加"
+  },
+  {
+    "company": "第一航空",
+    "fromCode": "ISG",
+    "toCode": "HTR",
+    "category": "定期・運航日設定",
+    "periodNote": "2026年10月まで",
+    "sourceUrl": "https://dai1air.com/",
+    "note": "会社別公式路線情報から追加"
+  }
+]

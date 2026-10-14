@@ -1,0 +1,165 @@
+[
+  {
+    "airportPairs": [
+      [
+        "AOJ",
+        "UKB"
+      ]
+    ],
+    "source": "https://www.fujidream.co.jp/timetable/timetable_ukb_aoj.html?timetable_tab=2",
+    "finding": "夏ダイヤの直行便は7/31〜8/9のみ。旧最長案の区間4。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "FSZ",
+        "KMJ"
+      ]
+    ],
+    "source": "https://www.fujidream.co.jp/timetable/timetable_fsz_kmj.html?timetable_tab=2",
+    "finding": "夏ダイヤの直行便は4/29〜5/10のみ。区間4の8月より後に区間7の5月を飛ぶ順序は成立しない。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "ASJ",
+        "RNJ"
+      ]
+    ],
+    "source": "https://amami-airport.co.jp/rjkaw/wp-content/uploads/2026/07/Monthly_202610_ja.pdf",
+    "finding": "10/1〜24の公式時刻表は「与論から奄美への直行便なし」と明記。逆方向ASJ→RNJとは区別が必要。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "KIX",
+        "MMB"
+      ],
+      [
+        "KIX",
+        "KUH"
+      ]
+    ],
+    "source": "https://www.flypeach.com/lm/st/routemap",
+    "finding": "Peach公式路線図では2026/10/1現在、両路線とも運休。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "ITM",
+        "MMB"
+      ]
+    ],
+    "source": "https://www.jal.co.jp/jp/ja/dom/special/itami-hokkaido/",
+    "finding": "旧データに夏季便が混在。公式案内では通年運航開始は2027/2/1。10月の経路から除外。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "CTS",
+        "IZO"
+      ]
+    ],
+    "source": "https://www.izumo-airport.co.jp/flight/flight-time",
+    "finding": "8/2〜31のみの季節運航。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "CTS",
+        "TKS"
+      ]
+    ],
+    "source": "https://www.tokushima-airport.co.jp/info/1491/",
+    "finding": "2026/8/1〜29の火・木・土のみ。再探索中の候補に混入していたため除外し再計算。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "HNA",
+        "UKB"
+      ],
+      [
+        "FSZ",
+        "IZO"
+      ]
+    ],
+    "source": "https://www.fujidream.co.jp/fda_wp/wp-content/uploads/2026/03/flight_schedule_20260329-20261024.pdf",
+    "finding": "FDA夏ダイヤに掲載される季節便。花巻〜神戸は8/10〜23、静岡〜出雲は4/29〜5/10。10月から除外。",
+    "status": "公式時刻表照合"
+  },
+  {
+    "airportPairs": [
+      [
+        "MMB",
+        "NGO"
+      ]
+    ],
+    "source": "https://www.ana.co.jp/guide/plan/airinfo/dom-timetable/pdf/timetable_all_20260701_20261024.pdf",
+    "finding": "ANAの掲載便は10/12まで。10/13以降のモデルから除外。",
+    "status": "公式時刻表照合"
+  },
+  {
+    "airportPairs": [
+      [
+        "AKJ",
+        "ITM"
+      ]
+    ],
+    "source": "https://www.jal.co.jp/jp/ja/dom/special/itami-hokkaido/",
+    "finding": "JAL通年運航開始は10/25。10/13〜24のモデルから除外。",
+    "status": "公式確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "ITM",
+        "TKN"
+      ]
+    ],
+    "source": "https://www.jal.co.jp/jp/ja/dom/route/time/",
+    "finding": "10月の直行運航を今回確認できず、保守的に除外。乗継を含む販売ページは直行便の証明として使わない。",
+    "status": "未確認・保守除外"
+  },
+  {
+    "airportPairs": [
+      [
+        "HKD",
+        "OIR"
+      ]
+    ],
+    "source": "https://www.town.okushiri.lg.jp/hotnews/detail/00001679.html",
+    "finding": "函館〜奥尻は原則月火水木土、奥尻〜丘珠は原則金日。接続には奥尻での日跨ぎが必要（例外日あり）。",
+    "status": "自治体公表確認"
+  },
+  {
+    "airportPairs": [
+      [
+        "CTS",
+        "FKS"
+      ],
+      [
+        "CTS",
+        "OKJ"
+      ],
+      [
+        "HIJ",
+        "OKA"
+      ],
+      [
+        "OKA",
+        "SDJ"
+      ]
+    ],
+    "source": "https://www.ana.co.jp/guide/plan/airinfo/dom-timetable/pdf/timetable_all_20260701_20261024.pdf",
+    "finding": "旧254辺表にない4路線をANA公式PDFで確認。10/13〜24の掲載ダイヤあり。入力網へ追加。",
+    "status": "公式時刻表照合"
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Precomputed non-repeating domestic paths",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "network": {
+        "enum": [
+          "ANA",
+          "JAL",
+          "ALL"
+        ]
+      },
+      "objective": {
+        "enum": [
+          "legs",
+          "distance"
+        ]
+      },
+      "airportIds": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 2,
+        "uniqueItems": true
+      },
+      "routeIds": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "minItems": 1
+      },
+      "totalDistanceKm": {
+        "type": "number",
+        "minimum": 0
+      },
+      "status": {
+        "enum": [
+          "optimal",
+          "best-found"
+        ]
+      },
+      "scope": {
+        "type": "string"
+      },
+      "referenceDate": {
+        "type": "string",
+        "format": "date"
+      },
+      "solver": {
+        "type": "object",
+        "required": [
+          "name",
+          "version",
+          "gap"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "gap": {
+            "type": [
+              "number",
+              "null"
+            ],
+            "minimum": 0
+          }
+        }
+      },
+      "constraints": {
+        "type": "object",
+        "required": [
+          "repeatAirport",
+          "fixedStart",
+          "fixedEnd",
+          "timetable"
+        ],
+        "properties": {
+          "repeatAirport": {
+            "const": false
+          },
+          "fixedStart": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "fixedEnd": {
+            "const": null
+          },
+          "timetable": {
+            "const": false
+          }
+        }
+      }
+    },
+    "required": [
+      "id",
+      "network",
+      "objective",
+      "airportIds",
+      "routeIds",
+      "totalDistanceKm",
+      "status",
+      "scope",
+      "referenceDate",
+      "solver",
+      "constraints"
+    ]
+  }
+}
